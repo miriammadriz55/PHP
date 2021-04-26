@@ -1,0 +1,14 @@
+body {
+  font-size: 16pt;
+  display:table-cell;
+  background-color:lightblue;
+  font-family: cursive;
+}
+
+body.receipt {
+  background-color:pink;
+}
+
+td.total {
+  background-color: black;
+}
